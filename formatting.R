@@ -1,3 +1,6 @@
+#cool stuff
+
+
 #read in data file
 datafile<-read.csv("Thomsen_Jogensen_et_al._JAE_All_data_1992-2009.csv",as.is=T)
 #note: the "o" in Jogensen of the file name was anglicized because git didnt like it.
